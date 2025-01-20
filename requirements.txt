@@ -3,4 +3,4 @@ pandas
 python-decouple
 scipy
 plotly
---upgrade nbformat
+nbformat
