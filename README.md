@@ -3,8 +3,8 @@
 
 ### نصب و راه اندازی
 
-    git clone #
-    cd #
+    git clone https://github.com/erfan-karimii/flag-task
+    cd flag-task
     python -m venv my_env
     cd my_env/Scripts
     activate.bat
