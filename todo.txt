@@ -1,0 +1,7 @@
+[*] - Integrate with MetaTrader 5:(Research and Establish)
+[*] - Fetch Required Data
+[*] - Understand Flag Pattern:(Study and document)
+[*] - Implement Flag Pattern Detection:(learn algorithm and find code)
+[*] - Estimate Completion Time
+[*] - Code Implementation
+[*] - Code Quality and Documentation
